@@ -1,0 +1,8 @@
+var a = {
+	//主要组件
+	"needed": ["a"],
+	//可选组件
+	"optional": ["b","c","d"]
+}
+
+module.exports = a;
